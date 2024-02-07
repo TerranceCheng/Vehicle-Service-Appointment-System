@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "[IT204N] Assignment (Cheng Yong Tat) (2022 03 06)/1.0.0": {
+        "runtime": {
+          "[IT204N] Assignment (Cheng Yong Tat) (2022 03 06).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "[IT204N] Assignment (Cheng Yong Tat) (2022 03 06)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
