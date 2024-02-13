@@ -1,4 +1,4 @@
-' This program calculate the fees required
+' This program calculate the fees required to repair a car
 
 ﻿Public Class Form1
     Const SERVICE_FEE_DECIMAL As Decimal = 125D
