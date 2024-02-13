@@ -1,3 +1,5 @@
+' This program calculate the fees required
+
 ﻿Public Class Form1
     Const SERVICE_FEE_DECIMAL As Decimal = 125D
     Const TUNE_UP_FEE_DECIMAL As Decimal = 75D
